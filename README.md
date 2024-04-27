@@ -1,4 +1,9 @@
 "Jogo de dados utilizando java" 
+
+<!DOCTYPE html>
 <html>
-  <img src"../src/telas_prontas/TELA_HOME.PNG">
+  <body>
+    <img src"../src/telas_prontas/TELA_HOME.PNG">
+  </body>
 </html>
+
